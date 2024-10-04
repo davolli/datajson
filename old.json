@@ -1,0 +1,139 @@
+{
+    "username": "renato",
+    "title": "meu site",
+    "logo": "/images/logo-two.png",
+    "slug": "apartamento-raro",
+    "images": [
+        {
+            "src": "/images/gallery/1.jpg",
+            "category": "category1",
+            "alt": "Imagem 1"
+        },
+        {
+            "src": "/images/gallery/2.jpg",
+            "category": "category2",
+            "alt": "Imagem 1"
+        },
+        {
+            "src": "/images/gallery/3.jpg",
+            "category": "category1",
+            "alt": "Imagem 1"
+        },
+        {
+            "src": "/images/gallery/4.jpg",
+            "category": "category3",
+            "alt": "Imagem 1"
+        },
+        {
+            "src": "/images/gallery/5.jpg",
+            "category": "category3",
+            "alt": "Imagem 1"
+        },
+        {
+            "src": "/images/gallery/6.jpg",
+            "category": "category2",
+            "alt": "Imagem 1"
+        }
+    ],
+    "author": {
+        "name": "Rashed Kabir",
+        "job": "Senior Agent of Homestate",
+        "description": "Rashed is a Certified Residential Specialists with over 10th years experience of helping local residents sell homes. He achieved success due to his commitment.",
+        "feature_image": "/images/team-image-1.jpg",
+        "city": "Mogi Mirim, SP",
+        "district": "Jardim Brasil",
+        "phone": "19998493279",
+        "email": "meuemail@gmail.com",
+        "facebook": "renatodavoli",
+        "instagram": "renatodavoli"
+    },
+    "houses": [
+        {
+            "id": 1,
+            "title": "Apartamento verde",
+            "description": "Apartamento com 2 quartos e 1 suíte.",
+            "city": "São Paulo, SP",
+            "district": "Cristal Lake",
+            "address": "Apartamento verde",
+            "price": "R$ 450.000",
+            "type": "Apartamento",
+            "slug": "apartamento-verde",
+            "thumbnail": "/images/gallery/thumb-1.jpg",
+            "image": "https://placehold.co/350x247",
+            "bedrooms": "4",
+            "bathrooms": "2",
+            "hasGrill": "true",
+            "vehicles": "2",
+            "coveredGarage": "false",
+            "acceeptFinancing": "true"
+        },
+        {
+            "id": 2,
+            "title": "Casa vermelha",
+            "description": "Casa na rua do longatto",
+            "city": "Mogi Mirim, SP",
+            "district": "Bairro Jardim Das FLores Azuis Cinco",
+            "address": "Rua do vermelho",
+            "price": "R$ 900.000",
+            "type": "Sobrado",
+            "slug": "casa-vermelha",
+            "thumbnail": "/images/gallery/thumb-2.jpg",
+            "image": "/images/house-image-sample.jpg",
+            "bedrooms": "4",
+            "bathrooms": "2",
+            "hasGrill": "true",
+            "vehicles": "2",
+            "coveredGarage": "false",
+            "acceeptFinancing": "true"
+        },
+        {
+            "id": 3,
+            "title": "Casa azul",
+            "description": "Casa azul.",
+            "city": "Mogi Graçu, SP",
+            "district": "Tucura",
+            "address": "Rua do azul",
+            "price": "R$ 900.000",
+            "type": "Casa",
+            "slug": "casa-de-praia",
+            "thumbnail": "/images/gallery/thumb-3.jpg",
+            "image": "https://placehold.co/350x247",
+            "bedrooms": "4",
+            "bathrooms": "2",
+            "hasGrill": "true",
+            "vehicles": "2",
+            "coveredGarage": "false",
+            "acceeptFinancing": "true"
+        },
+        {
+            "id": 4,
+            "title": "Casa marrom",
+            "description": "Casa marrom.",
+            "address": "casa-marrom",
+            "city": "Campinas, SP",
+            "district": "Jardim Longato",
+            "price": "R$ 900.000",
+            "type": "Casa",
+            "slug": "casa-de-pobre",
+            "thumbnail": "/images/gallery/thumb-4.jpg",
+            "image": "https://placehold.co/350x247",
+            "bedrooms": "4",
+            "bathrooms": "2",
+            "hasGrill": "true",
+            "vehicles": "2",
+            "coveredGarage": "false",
+            "acceeptFinancing": "true"
+        }
+    ],
+    "info": {
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "hasGrill": "true",
+        "vehicles": "2",
+        "coveredGarage": "false",
+        "acceeptFinancing": "true"
+    },
+    "footer": {
+        "description": "Lorem ipsum dolor sit amet, ad per sint graece, vix quod nusquam ea. Vulputate intellegat constituam ius ei, ignota amet lobortis cu eum."
+    }
+}
