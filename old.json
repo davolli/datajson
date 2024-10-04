@@ -3,38 +3,6 @@
     "title": "meu site",
     "logo": "/images/logo-two.png",
     "slug": "apartamento-raro",
-    "images": [
-        {
-            "src": "/images/gallery/1.jpg",
-            "category": "category1",
-            "alt": "Imagem 1"
-        },
-        {
-            "src": "/images/gallery/2.jpg",
-            "category": "category2",
-            "alt": "Imagem 1"
-        },
-        {
-            "src": "/images/gallery/3.jpg",
-            "category": "category1",
-            "alt": "Imagem 1"
-        },
-        {
-            "src": "/images/gallery/4.jpg",
-            "category": "category3",
-            "alt": "Imagem 1"
-        },
-        {
-            "src": "/images/gallery/5.jpg",
-            "category": "category3",
-            "alt": "Imagem 1"
-        },
-        {
-            "src": "/images/gallery/6.jpg",
-            "category": "category2",
-            "alt": "Imagem 1"
-        }
-    ],
     "author": {
         "name": "Rashed Kabir",
         "job": "Senior Agent of Homestate",
@@ -55,17 +23,44 @@
             "city": "São Paulo, SP",
             "district": "Cristal Lake",
             "address": "Apartamento verde",
-            "price": "R$ 450.000",
+            "price": "R$ 531.000",
             "type": "Apartamento",
             "slug": "apartamento-verde",
             "thumbnail": "/images/gallery/thumb-1.jpg",
             "image": "https://placehold.co/350x247",
-            "bedrooms": "4",
+            "bedrooms": "6",
             "bathrooms": "2",
             "hasGrill": "true",
             "vehicles": "2",
             "coveredGarage": "false",
-            "acceeptFinancing": "true"
+            "acceeptFinancing": "true",
+            "images": [
+                {
+                    "src": "/images/gallery/1.jpg",
+                    "category": "category1",
+                    "alt": "Imagem 1"
+                },
+                {
+                    "src": "/images/gallery/2.jpg",
+                    "category": "category2",
+                    "alt": "Imagem 1"
+                },
+                {
+                    "src": "/images/gallery/3.jpg",
+                    "category": "category1",
+                    "alt": "Imagem 1"
+                },
+                {
+                    "src": "/images/gallery/3.jpg",
+                    "category": "category1",
+                    "alt": "Imagem 1"
+                },
+                {
+                    "src": "/images/gallery/4.jpg",
+                    "category": "category3",
+                    "alt": "Imagem 1"
+                }
+            ]
         },
         {
             "id": 2,
@@ -74,17 +69,34 @@
             "city": "Mogi Mirim, SP",
             "district": "Bairro Jardim Das FLores Azuis Cinco",
             "address": "Rua do vermelho",
-            "price": "R$ 900.000",
+            "price": "R$ 560.000",
             "type": "Sobrado",
             "slug": "casa-vermelha",
             "thumbnail": "/images/gallery/thumb-2.jpg",
             "image": "/images/house-image-sample.jpg",
             "bedrooms": "4",
-            "bathrooms": "2",
+            "bathrooms": "4",
             "hasGrill": "true",
-            "vehicles": "2",
+            "vehicles": "0",
             "coveredGarage": "false",
-            "acceeptFinancing": "true"
+            "acceeptFinancing": "true",
+            "images": [
+                {
+                    "src": "/images/gallery/1.jpg",
+                    "category": "category1",
+                    "alt": "Imagem 1"
+                },
+                {
+                    "src": "/images/gallery/2.jpg",
+                    "category": "category2",
+                    "alt": "Imagem 1"
+                },
+                {
+                    "src": "/images/gallery/3.jpg",
+                    "category": "category1",
+                    "alt": "Imagem 1"
+                }
+            ]
         },
         {
             "id": 3,
@@ -93,7 +105,7 @@
             "city": "Mogi Graçu, SP",
             "district": "Tucura",
             "address": "Rua do azul",
-            "price": "R$ 900.000",
+            "price": "R$ 1000.000",
             "type": "Casa",
             "slug": "casa-de-praia",
             "thumbnail": "/images/gallery/thumb-3.jpg",
@@ -101,9 +113,46 @@
             "bedrooms": "4",
             "bathrooms": "2",
             "hasGrill": "true",
-            "vehicles": "2",
+            "vehicles": "5",
             "coveredGarage": "false",
-            "acceeptFinancing": "true"
+            "acceeptFinancing": "true",
+            "images": [
+                {
+                    "src": "/images/gallery/1.jpg",
+                    "category": "category1",
+                    "alt": "Imagem 1"
+                },
+                {
+                    "src": "/images/gallery/2.jpg",
+                    "category": "category2",
+                    "alt": "Imagem 1"
+                },
+                {
+                    "src": "/images/gallery/3.jpg",
+                    "category": "category1",
+                    "alt": "Imagem 1"
+                },
+                {
+                    "src": "/images/gallery/3.jpg",
+                    "category": "category1",
+                    "alt": "Imagem 1"
+                },
+                {
+                    "src": "/images/gallery/4.jpg",
+                    "category": "category3",
+                    "alt": "Imagem 1"
+                },
+                {
+                    "src": "/images/gallery/3.jpg",
+                    "category": "category1",
+                    "alt": "Imagem 1"
+                },
+                {
+                    "src": "/images/gallery/4.jpg",
+                    "category": "category3",
+                    "alt": "Imagem 1"
+                }
+            ]
         },
         {
             "id": 4,
@@ -112,27 +161,46 @@
             "address": "casa-marrom",
             "city": "Campinas, SP",
             "district": "Jardim Longato",
-            "price": "R$ 900.000",
+            "price": "R$ 3440.000",
             "type": "Casa",
             "slug": "casa-de-pobre",
             "thumbnail": "/images/gallery/thumb-4.jpg",
             "image": "https://placehold.co/350x247",
-            "bedrooms": "4",
-            "bathrooms": "2",
+            "bedrooms": "6",
+            "bathrooms": "9",
             "hasGrill": "true",
-            "vehicles": "2",
+            "vehicles": "1",
             "coveredGarage": "false",
-            "acceeptFinancing": "true"
+            "acceeptFinancing": "true",
+            "images": [
+                {
+                    "src": "/images/gallery/3.jpg",
+                    "category": "category1",
+                    "alt": "Imagem 1"
+                },
+                {
+                    "src": "/images/gallery/4.jpg",
+                    "category": "category3",
+                    "alt": "Imagem 1"
+                },
+                {
+                    "src": "/images/gallery/3.jpg",
+                    "category": "category1",
+                    "alt": "Imagem 1"
+                },
+                {
+                    "src": "/images/gallery/3.jpg",
+                    "category": "category1",
+                    "alt": "Imagem 1"
+                },
+                {
+                    "src": "/images/gallery/4.jpg",
+                    "category": "category3",
+                    "alt": "Imagem 1"
+                }
+            ]
         }
     ],
-    "info": {
-        "bedrooms": "4",
-        "bathrooms": "2",
-        "hasGrill": "true",
-        "vehicles": "2",
-        "coveredGarage": "false",
-        "acceeptFinancing": "true"
-    },
     "footer": {
         "description": "Lorem ipsum dolor sit amet, ad per sint graece, vix quod nusquam ea. Vulputate intellegat constituam ius ei, ignota amet lobortis cu eum."
     }
