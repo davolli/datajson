@@ -1,6 +1,7 @@
 {
     "username": "renato",
     "title": "meu site",
+    "baseUrl": "https://amber-sunset.template.turee.com.br"
     "logo": "/images/logo-two.png",
     "slug": "apartamento-raro",
     "author": {
