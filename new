@@ -1,0 +1,182 @@
+{
+  "id": 1,
+  "name": "My Real Estate Page",
+  "info": {
+    "url": "https://amber-sunset.template.turee.com.br",
+    "title": "meu site",
+    "logo": "https://amber-sunset.template.turee.com.br/images/logo-two.png",
+    "slug": "apartamento-raro",
+    "description": "Lorem ipsum dolor sit amet, ad per sint graece, vix quod nusquam ea. Vulputate intellegat constituam ius ei, ignota amet lobortis cu eum."
+  },
+  "realtor": [
+    {
+      "id": 1,
+      "name": "Rashed Kabir",
+      "job": "Senior Agent of Homestate",
+      "description": "Rashed is a Certified Residential Specialist with over 10 years of experience helping local residents sell homes. He achieved success due to his commitment.",
+      "feature_image": "https://amber-sunset.template.turee.com.br/images/team-image-1.jpg",
+      "city": "Mogi Mirim, SP",
+      "district": "Jardim Brasil",
+      "phone": "19998493279",
+      "email": "meuemail@gmail.com",
+      "facebook": "renatodavoli",
+      "instagram": "renatodavoli"
+    }
+  ],
+  "property": [
+    {
+      "id": 1,
+      "title": "Apartamento verde",
+      "description": "Apartamento com 2 quartos e 1 suíte",
+      "attribute": [
+        {
+          "name": "distcityrict",
+          "value": "São Paulo, SP"
+        },
+        {
+          "name": "price",
+          "value": "R$ 531.000"
+        },
+        {
+          "name": "district",
+          "value": "Cristal Lake"
+        },
+        {
+          "name": "address",
+          "value": "Apartamento verde"
+        },
+        {
+          "name": "type",
+          "value": "Apartamento"
+        },
+        {
+          "name": "slug",
+          "value": "apartamento-verde"
+        },
+        {
+          "name": "thumbnail",
+          "value": "https://amber-sunset.template.turee.com.br/images/gallery/thumb-1.jpg"
+        },
+        {
+          "name": "image",
+          "value": "https://placehold.co/350x247"
+        },
+        {
+          "name": "bedrooms",
+          "value": "6"
+        },
+        {
+          "name": "bathrooms",
+          "value": "2"
+        },
+        {
+          "name": "hasGrill",
+          "value": "true"
+        },
+        {
+          "name": "vehicles",
+          "value": "2"
+        },
+        {
+          "name": "coveredGarage",
+          "value": "false"
+        },
+        {
+          "name": "acceptFinancing",
+          "value": "true"
+        }
+      ],
+      "image": [
+        {
+          "src": "https://amber-sunset.template.turee.com.br/images/gallery/1.jpg",
+          "category": "category1",
+          "alt": "Imagem 1"
+        },
+        {
+          "src": "https://amber-sunset.template.turee.com.br/images/gallery/2.jpg",
+          "category": "category2",
+          "alt": "Imagem 2"
+        },
+        {
+          "src": "https://amber-sunset.template.turee.com.br/images/gallery/3.jpg",
+          "category": "category1",
+          "alt": "Imagem 3"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Casa vermelha",
+      "description": "Casa na rua do Longatto",
+      "city": "Mogi Mirim, SP",
+      "price": "R$ 560.000",
+      "attributes": [
+        {
+          "name": "district",
+          "value": "Bairro Jardim Das Flores Azuis Cinco"
+        },
+        {
+          "name": "address",
+          "value": "Rua do vermelho"
+        },
+        {
+          "name": "type",
+          "value": "Sobrado"
+        },
+        {
+          "name": "slug",
+          "value": "casa-vermelha"
+        },
+        {
+          "name": "thumbnail",
+          "value": "https://amber-sunset.template.turee.com.br/images/gallery/thumb-2.jpg"
+        },
+        {
+          "name": "image",
+          "value": "https://amber-sunset.template.turee.com.br/images/house-image-sample.jpg"
+        },
+        {
+          "name": "bedrooms",
+          "value": "4"
+        },
+        {
+          "name": "bathrooms",
+          "value": "4"
+        },
+        {
+          "name": "hasGrill",
+          "value": "true"
+        },
+        {
+          "name": "vehicles",
+          "value": "0"
+        },
+        {
+          "name": "coveredGarage",
+          "value": "false"
+        },
+        {
+          "name": "acceptFinancing",
+          "value": "true"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://amber-sunset.template.turee.com.br/images/gallery/1.jpg",
+          "category": "category1",
+          "alt": "Imagem 1"
+        },
+        {
+          "src": "https://amber-sunset.template.turee.com.br/images/gallery/2.jpg",
+          "category": "category2",
+          "alt": "Imagem 2"
+        },
+        {
+          "src": "https://amber-sunset.template.turee.com.br/images/gallery/3.jpg",
+          "category": "category1",
+          "alt": "Imagem 3"
+        }
+      ]
+    }
+  ]
+}
