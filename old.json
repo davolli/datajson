@@ -1,28 +1,28 @@
 {
-    "username": "renato",
+    "username": "nomedeusuario",
     "url": "https://amber-sunset.template.turee.com.br",
-    "title": "meu site",
-    "logo": "https://amber-sunset.template.turee.com.br/images/logo-two.png",
-    "slug": "apartamento-raro",
+    "title": "Meu novo site corretor de imóveis",
+    "logo": "https://placehold.co/250x80",
+    "slug": "amber-sunset",
     "author": {
-        "name": "Rashed Kabir",
-        "job": "Senior Agent of Homestate",
-        "description": "Rashed is a Certified Residential Specialists with over 10th years experience of helping local residents sell homes. He achieved success due to his commitment.",
-        "feature_image": "https://amber-sunset.template.turee.com.br/images/team-image-1.jpg",
-        "city": "Mogi Mirim, SP",
-        "district": "Jardim Brasil",
-        "phone": "19998493279",
-        "email": "meuemail@gmail.com",
-        "facebook": "renatodavoli",
-        "instagram": "renatodavoli"
+        "name": "João Silva",
+        "job": "Corretor de imóveis",
+        "description": "Com 15 anos de experiência, João Silva é um corretor dedicado a encontrar o imóvel ideal para você. Profissionalismo e atendimento personalizado em cada negociação",
+        "feature_image": "https://placehold.co/300x420",
+        "city": "São Paulo, SP",
+        "district": "Jardim Bonito",
+        "phone": "1999999999",
+        "email": "email@email.com.br",
+        "facebook": "meufacebook",
+        "instagram": "meuinstagram"
     },
     "houses": [
         {
             "id": 1,
             "title": "Apartamento verde",
-            "description": "Apartamento com 2 quartos e 1 suíte.",
+            "description": "Apartamento verde com 2 quartos e 1 suíte.",
             "city": "São Paulo, SP",
-            "district": "Cristal Lake",
+            "district": "Jardim São Paulo",
             "address": "Apartamento verde",
             "price": "R$ 531.000",
             "type": "Apartamento",
@@ -38,27 +38,27 @@
             "images": [
                 {
                     "src": "https://amber-sunset.template.turee.com.br/images/gallery/1.jpg",
-                    "category": "category1",
+                    "category": "interior",
                     "alt": "Imagem 1"
                 },
                 {
                     "src": "https://amber-sunset.template.turee.com.br/images/gallery/2.jpg",
-                    "category": "category2",
+                    "category": "exterior",
                     "alt": "Imagem 1"
                 },
                 {
                     "src": "https://amber-sunset.template.turee.com.br/images/gallery/3.jpg",
-                    "category": "category1",
+                    "category": "interior",
                     "alt": "Imagem 1"
                 },
                 {
                     "src": "https://amber-sunset.template.turee.com.br/images/gallery/3.jpg",
-                    "category": "category1",
+                    "category": "interior",
                     "alt": "Imagem 1"
                 },
                 {
                     "src": "https://amber-sunset.template.turee.com.br/images/gallery/4.jpg",
-                    "category": "category3",
+                    "category": "interior",
                     "alt": "Imagem 1"
                 }
             ]
@@ -66,15 +66,15 @@
         {
             "id": 2,
             "title": "Casa vermelha",
-            "description": "Casa na rua do longatto",
-            "city": "Mogi Mirim, SP",
-            "district": "Bairro Jardim Das FLores Azuis Cinco",
+            "description": "Casa vermelha com 2 suítes",
+            "city": "Campinas, SP",
+            "district": "Jardim Campinas",
             "address": "Rua do vermelho",
             "price": "R$ 560.000",
             "type": "Sobrado",
             "slug": "casa-vermelha",
-            "thumbnail": "https://amber-sunset.template.turee.com.br/images/gallery/thumb-2.jpg",
-            "image": "https://amber-sunset.template.turee.com.br/images/house-image-sample.jpg",
+            "thumbnail": "https://amber-sunset.template.turee.com.br//images/gallery/thumb-2.jpg",
+            "image": "https://placehold.co/350x247",
             "bedrooms": "4",
             "bathrooms": "4",
             "hasGrill": "true",
@@ -84,17 +84,17 @@
             "images": [
                 {
                     "src": "https://amber-sunset.template.turee.com.br/images/gallery/1.jpg",
-                    "category": "category1",
+                    "category": "interior",
                     "alt": "Imagem 1"
                 },
                 {
                     "src": "https://amber-sunset.template.turee.com.br/images/gallery/2.jpg",
-                    "category": "category2",
+                    "category": "exterior",
                     "alt": "Imagem 1"
                 },
                 {
                     "src": "https://amber-sunset.template.turee.com.br/images/gallery/3.jpg",
-                    "category": "category1",
+                    "category": "interior",
                     "alt": "Imagem 1"
                 }
             ]
@@ -103,13 +103,13 @@
             "id": 3,
             "title": "Casa azul",
             "description": "Casa azul.",
-            "city": "Mogi Graçu, SP",
-            "district": "Tucura",
+            "city": "Sorocaba, SP",
+            "district": "Jardim Sorocaba",
             "address": "Rua do azul",
             "price": "R$ 1000.000",
             "type": "Casa",
-            "slug": "casa-de-praia",
-            "thumbnail": "https://amber-sunset.template.turee.com.br/images/gallery/thumb-3.jpg",
+            "slug": "casa-azul",
+            "thumbnail": "/images/gallery/thumb-3.jpg",
             "image": "https://placehold.co/350x247",
             "bedrooms": "4",
             "bathrooms": "2",
@@ -120,37 +120,37 @@
             "images": [
                 {
                     "src": "https://amber-sunset.template.turee.com.br/images/gallery/1.jpg",
-                    "category": "category1",
+                    "category": "interior",
                     "alt": "Imagem 1"
                 },
                 {
                     "src": "https://amber-sunset.template.turee.com.br/images/gallery/2.jpg",
-                    "category": "category2",
+                    "category": "exterior",
                     "alt": "Imagem 1"
                 },
                 {
                     "src": "https://amber-sunset.template.turee.com.br/images/gallery/3.jpg",
-                    "category": "category1",
+                    "category": "interior",
                     "alt": "Imagem 1"
                 },
                 {
                     "src": "https://amber-sunset.template.turee.com.br/images/gallery/3.jpg",
-                    "category": "category1",
+                    "category": "exterior",
                     "alt": "Imagem 1"
                 },
                 {
                     "src": "https://amber-sunset.template.turee.com.br/images/gallery/4.jpg",
-                    "category": "category3",
+                    "category": "interior",
                     "alt": "Imagem 1"
                 },
                 {
                     "src": "https://amber-sunset.template.turee.com.br/images/gallery/3.jpg",
-                    "category": "category1",
+                    "category": "interior",
                     "alt": "Imagem 1"
                 },
                 {
                     "src": "https://amber-sunset.template.turee.com.br/images/gallery/4.jpg",
-                    "category": "category3",
+                    "category": "interior",
                     "alt": "Imagem 1"
                 }
             ]
@@ -160,11 +160,11 @@
             "title": "Casa marrom",
             "description": "Casa marrom.",
             "address": "casa-marrom",
-            "city": "Campinas, SP",
-            "district": "Jardim Longato",
+            "city": "Brasília, SP",
+            "district": "Jardim Brasília",
             "price": "R$ 3440.000",
             "type": "Casa",
-            "slug": "casa-de-pobre",
+            "slug": "casa-marrom",
             "thumbnail": "https://amber-sunset.template.turee.com.br/images/gallery/thumb-4.jpg",
             "image": "https://placehold.co/350x247",
             "bedrooms": "6",
@@ -176,33 +176,33 @@
             "images": [
                 {
                     "src": "https://amber-sunset.template.turee.com.br/images/gallery/3.jpg",
-                    "category": "category1",
+                    "category": "interior",
                     "alt": "Imagem 1"
                 },
                 {
                     "src": "https://amber-sunset.template.turee.com.br/images/gallery/4.jpg",
-                    "category": "category3",
+                    "category": "interior",
                     "alt": "Imagem 1"
                 },
                 {
                     "src": "https://amber-sunset.template.turee.com.br/images/gallery/3.jpg",
-                    "category": "category1",
+                    "category": "interior",
                     "alt": "Imagem 1"
                 },
                 {
                     "src": "https://amber-sunset.template.turee.com.br/images/gallery/3.jpg",
-                    "category": "category1",
+                    "category": "exterior",
                     "alt": "Imagem 1"
                 },
                 {
                     "src": "https://amber-sunset.template.turee.com.br/images/gallery/4.jpg",
-                    "category": "category3",
+                    "category": "interior",
                     "alt": "Imagem 1"
                 }
             ]
         }
     ],
     "footer": {
-        "description": "Lorem ipsum dolor sit amet, ad per sint graece, vix quod nusquam ea. Vulputate intellegat constituam ius ei, ignota amet lobortis cu eum."
+        "description": "Com 15 anos de experiência, João Silva é um corretor dedicado a encontrar o imóvel ideal para você. Profissionalismo e atendimento personalizado em cada negociação."
     }
 }
