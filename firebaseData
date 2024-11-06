@@ -1,0 +1,109 @@
+{
+  "sites": {
+    "imobiliaria-joao": {
+      "name": "My Real Estate Page",
+      "info": {
+        "url": "https://amber-sunset.template.turee.com.br",
+        "title": "meu site",
+        "logo": "https://amber-sunset.template.turee.com.br/images/logo-two.png",
+        "description": "Lorem ipsum dolor sit amet, ad per sint graece, vix quod nusquam ea. Vulputate intellegat constituam ius ei, ignota amet lobortis cu eum."
+      },
+      "realtors": {
+        "rashed-kabir": {
+          "name": "Rashed Kabir",
+          "job": "Senior Agent of Homestate",
+          "description": "Rashed is a Certified Residential Specialist with over 10 years of experience helping local residents sell homes. He achieved success due to his commitment.",
+          "feature_image": "https://amber-sunset.template.turee.com.br/images/team-image-1.jpg",
+          "city": "Mogi Mirim, SP",
+          "district": "Jardim Brasil",
+          "phone": "19998493279",
+          "email": "meuemail@gmail.com",
+          "facebook": "renatodavoli",
+          "instagram": "renatodavoli"
+        },
+        "alex-costa": {
+          "name": "Alex Costa",
+          "job": "Agent",
+          "description": "Alex specializes in residential and commercial properties with 5 years of experience.",
+          "feature_image": "https://amber-sunset.template.turee.com.br/images/team-image-2.jpg",
+          "city": "São Paulo, SP",
+          "district": "Centro",
+          "phone": "11987654321",
+          "email": "alex.costa@gmail.com",
+          "facebook": "alex.costa",
+          "instagram": "alex.costa"
+        }
+      },
+      "properties": {
+        "apartamento-verde": {
+          "title": "Apartamento verde",
+          "description": "Apartamento com 2 quartos e 1 suíte",
+          "distcityrict": "São Paulo, SP",
+          "price": "R$ 531.000",
+          "district": "Cristal Lake",
+          "address": "Apartamento verde",
+          "type": "Apartamento",
+          "thumbnail": "https://amber-sunset.template.turee.com.br/images/gallery/thumb-1.jpg",
+          "image": "https://placehold.co/350x247",
+          "bedrooms": "6",
+          "bathrooms": "2",
+          "hasGrill": "true",
+          "vehicles": "2",
+          "coveredGarage": "false",
+          "acceptFinancing": "true",
+          "images": {
+            "1": {
+              "src": "https://amber-sunset.template.turee.com.br/images/gallery/1.jpg",
+              "category": "category1",
+              "alt": "Imagem 1"
+            },
+            "2": {
+              "src": "https://amber-sunset.template.turee.com.br/images/gallery/2.jpg",
+              "category": "category2",
+              "alt": "Imagem 2"
+            },
+            "3": {
+              "src": "https://amber-sunset.template.turee.com.br/images/gallery/3.jpg",
+              "category": "category1",
+              "alt": "Imagem 3"
+            }
+          }
+        },
+        "casa-vermelha": {
+          "title": "Casa vermelha",
+          "description": "Casa na rua do Longatto",
+          "city": "Mogi Mirim, SP",
+          "price": "R$ 560.000",
+          "district": "Bairro Jardim Das Flores Azuis Cinco",
+          "address": "Rua do vermelho",
+          "type": "Sobrado",
+          "thumbnail": "https://amber-sunset.template.turee.com.br/images/gallery/thumb-2.jpg",
+          "image": "https://amber-sunset.template.turee.com.br/images/house-image-sample.jpg",
+          "bedrooms": "4",
+          "bathrooms": "4",
+          "hasGrill": "true",
+          "vehicles": "0",
+          "coveredGarage": "false",
+          "acceptFinancing": "true",
+          "images": {
+            "1": {
+              "src": "https://amber-sunset.template.turee.com.br/images/gallery/1.jpg",
+              "category": "category1",
+              "alt": "Imagem 1"
+            },
+            "2": {
+              "src": "https://amber-sunset.template.turee.com.br/images/gallery/2.jpg",
+              "category": "category2",
+              "alt": "Imagem 2"
+            },
+            "3": {
+              "src": "https://amber-sunset.template.turee.com.br/images/gallery/3.jpg",
+              "category": "category1",
+              "alt": "Imagem 3"
+            }
+          }
+        }
+      }
+    }
+  }
+}
